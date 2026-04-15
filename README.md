@@ -2,8 +2,6 @@
 
 ---
 
-## 🚀 About Me
-
 - 💼 Software Engineer  
 - 🎓 Bachelor's Degree in Computer Engineering  
 - 🏛 University of Calabria  
@@ -11,9 +9,6 @@
 - 💡 Backend development • Distributed systems • Data processing  
 
 ---
-
-## 🧠 Tech Stack
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
