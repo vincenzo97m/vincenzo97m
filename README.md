@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Ciao, sono Vincenzo
 
-<!--
-**vincenzo97m/vincenzo97m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Chi sono
+- 💼 Software Engineer
+- 🌍 Italiano, Inglese
+- 💡 Backend development, sistemi distribuiti, data processing
+- 🎓 Bachelor's Degree in Computer Engineering
+- 🏛 Unical - Università della Calabria
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Linguaggi**
+- Java
+- Python
+- C
+- JavaScript
+- HTML & CSS
+
+**Backend & Framework**
+- Spring Framework
+- Hibernate
+
+**Database**
+- OracleDB
+- Elasticsearch
+
+**Tools & Tecnologie**
+- Git
+- Maven
+- Postman
+- Splunk
+- Linux
+
+---
+
+## 📫 Contatti
+- 💼 LinkedIn: https://www.linkedin.com/in/morabitovincenzo
