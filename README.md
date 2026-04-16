@@ -27,8 +27,8 @@
 
 ---
 
-<p align="center">
-  ## 🌐 Connect with Me
+
+<p text= "## 🌐 Connect with Me" align="center">
   <a href="https://www.linkedin.com/in/morabitovincenzo">
     <img src="https://img.shields.io/badge/LinkedIn-Vincenzo%20Morabito-blue?style=for-the-badge&logo=linkedin"/>
   </a>
