@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
 
----
-
 - 💼 Software Engineer  
 - 🎓 Bachelor's Degree in Computer Engineering  
 - 🏛 University of Calabria  
@@ -29,9 +27,8 @@
 
 ---
 
-## 🌐 Connect with Me
-
 <p align="center">
+  ## 🌐 Connect with Me
   <a href="https://www.linkedin.com/in/morabitovincenzo">
     <img src="https://img.shields.io/badge/LinkedIn-Vincenzo%20Morabito-blue?style=for-the-badge&logo=linkedin"/>
   </a>
